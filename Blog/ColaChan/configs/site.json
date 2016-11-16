@@ -1,0 +1,15 @@
+{
+    "posts_per_page":3,
+    "hide_post_prefix":false,
+    "description":"",
+    "title":"\u53ef\u4e50",
+    "sub_title":"\u53ef\u4e50\u6a59\u6bcf\u5468\u7ffb\u8bd1\u56fd\u5916\u8bbe\u8ba1\u7cbe\u534e<br>\u70b9\u6ef4\u79ef\u7d2f\uff0c\u5206\u4eab\u4f7f\u4eba\u6210\u957f",
+    "post_paragraph_indent":"",
+    "show_toc":false,
+    "keywords":"",
+    "images_per_page":"",
+    "mathjax":false,
+    "flowchart":false,
+    "echarts":false,
+    "post_content_type":"markdown"
+}
