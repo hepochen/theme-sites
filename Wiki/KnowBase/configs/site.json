@@ -1,0 +1,23 @@
+{
+    "root":"",
+    "knowbase_display_all_categories":false,
+    "knowbase_categories":[
+        {
+            "category":"chinese",
+            "icon":"fa fa-bookmark ",
+            "summary":"\u4e2d\u6587\u4e4b\u7f8e\u53ca\u5176\u8a00"
+        },
+        {
+            "category":"life",
+            "icon":"fa fa-list-alt ",
+            "summary":"This is something in English, let's see the font display."
+        },
+        {
+            "category":"Poems",
+            "icon":"fa fa-barcode ",
+            "summary":"\u7528\u5f71\u5b50\u7f16\u7ec7\u4e00\u4e2a\u9633\u5149\u7684\u6240\u5728\uff0c\u7528\u6c89\u9ed8\u4ee3\u66ff\u6c89\u9ed8"
+        }
+    ],
+    "knowbase_show_comments":true,
+    "knowbase_header_animation":true
+}
